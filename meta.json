@@ -1,0 +1,13 @@
+{
+	"unique": "obiwac.light-wm",
+
+	"name": "Light WM",
+	"version": "0522a",
+	"description": "Window manager for when I just need, well, something.",
+
+	"author": "obiwac",
+	"organization": "obiwac",
+
+	"start": "native",
+	"entry": "entry.native"
+}
